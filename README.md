@@ -7,6 +7,15 @@ My full name is `Ho Le Quoc Thang`, but my friends often call me `Bill Thang`.
 
 **`Take on challenges as chances to grow, and stay curious and dedicated to leveling up your skills in this constantly changing field`**
 
+I know learning can be hard, but I have the patience, determination, and discipline to reach my goals.
+When I'm stuck, I'll find a solution, like…
+- Take a breath
+- Break it down
+- Ask for help
+- Research
+- Stay positive
+- Talk through it
+
 <h4 align="left">Languages:</h4>
 <p><a target="_blank" rel="noreferrer"> 
 <img src="./Icons/c-original.svg"                           width="35" height="35"/></a></p>
