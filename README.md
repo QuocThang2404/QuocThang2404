@@ -5,6 +5,8 @@ My full name is `Ho Le Quoc Thang`, but my friends often call me `Bill Thang`.
 - 🎓 I'm studying at HCM University of Technology.
 - 🌱 I’m currently learning Electronics and Telecommunication.
 
+**`Take on challenges as chances to grow, and stay curious and dedicated to leveling up your skills in this constantly changing field`**
+
 <h4 align="left">Languages:</h4>
 <p><a target="_blank" rel="noreferrer"> 
 <img src="./Icons/c-original.svg"                           width="35" height="35"/></a></p>
